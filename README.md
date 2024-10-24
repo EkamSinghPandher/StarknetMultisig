@@ -42,9 +42,4 @@ This demo will run a few tests:
 3. Sign simple transfers with various signature types and various threshholds.
 
 
-## Test the contracts (JavaScript)
 
-
-### Contract fixtures
-
-The [fixtures folder](./tests-integration/fixtures/) contains pre-compiled contracts used for tests (both json and casm).
